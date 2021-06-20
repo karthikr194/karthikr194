@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Karthik Raju and I am a Full Stack Developer. I am a innovative & creative person. Find out more about me & feel free to connect with me:
+My name is Karthik Raju and I am a Full Stack Developer. I am innovative & creative person.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me:
 
 - 🌱 I’m currently learning Ionic 5 and Firebase.
 - 🚀 Next > Flutter
