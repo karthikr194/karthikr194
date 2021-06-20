@@ -1,8 +1,9 @@
 Hi there 👋
 
-My name is Karthik Raju and I am a Full Stack Developer. I am more creating and tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me:
+My name is Karthik Raju and I am a Full Stack Developer. I am innovative & creative person. Find out more about me & feel free to connect with me:
 
-- 🌱 I’m currently learning Ionic 5 and Firebase
+- 🌱 I’m currently learning Ionic 5 and Firebase.
+- 🚀 Next > Flutter
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-karthikraju194-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikraju194/)](https://www.linkedin.com/in/karthikraju194/)
 [![Gmail Badge](https://img.shields.io/badge/-karthikrmecmech2012@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikrmecmech2012@gmail.com)](mailto:karthikrmecmech2012@gmail.com)
@@ -28,7 +29,7 @@ About work experince:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikr194&show_icons=true&theme=radical)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikr194&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikr194&layout=compact)](https://github.com/karthikr194/github-readme-stats)
 
