@@ -3,7 +3,7 @@ Hi there 👋
 My name is Karthik Raju and I am a Full Stack Developer. I am innovative & creative person.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me:
 
 - 🌱 I’m currently learning Ionic 5 and Firebase.
-- 🚀 Next > Flutter
+- 🚀 Next > React
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-karthikraju194-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikraju194/)](https://www.linkedin.com/in/karthikraju194/)
 [![Gmail Badge](https://img.shields.io/badge/-karthikrmecmech2012@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikrmecmech2012@gmail.com)](mailto:karthikrmecmech2012@gmail.com)
