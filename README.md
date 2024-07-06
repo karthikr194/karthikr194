@@ -4,6 +4,7 @@ My name is Karthik Raju and I am a Full Stack Developer. I am innovative & creat
 
 - 🌱 I’m proficient in Azure Services, Node JS, Typescript, Java/J2EE, GCP Services, Ionic 4 Angular, Angular 13, Azure DevOps, Docker & React.
 - 🚀 Currently learning React and Azure Kubernetes
+  
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-karthikraju194-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikraju194/)](https://www.linkedin.com/in/karthikraju194/)
 [![Gmail Badge](https://img.shields.io/badge/-karthikrmecmech2012@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikrmecmech2012@gmail.com)](mailto:karthikrmecmech2012@gmail.com)
