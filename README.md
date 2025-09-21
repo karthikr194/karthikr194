@@ -1,59 +1,91 @@
-Hi there 👋
+<!-- 🚀 Premium Hero Header -->
+<p align="center">
+  <!-- Animated Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Karthik+Raju;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Innovator+%26+Problem+Solver" alt="Typing SVG" />
+</p>
 
-My name is Karthik Raju and I am a Full Stack Developer. I am innovative & creative person.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me:
+<!-- Stylish Subheading -->
+<h3 align="center">
+  🚀 Full Stack & Cloud Developer | 🤖 AI Enthusiast | 🎓 Certified Professional
+</h3>
 
-- 🌱 I’m proficient in Azure Services, Node JS, Typescript, Java/J2EE, GCP Services, Ionic 4 Angular, Angular 13, Azure DevOps, Docker & React.
-- 🚀 Currently learning React and Azure Kubernetes
-  
-- 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-karthikraju194-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikraju194/)](https://www.linkedin.com/in/karthikraju194/)
-[![Gmail Badge](https://img.shields.io/badge/-karthikrmecmech2012@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikrmecmech2012@gmail.com)](mailto:karthikrmecmech2012@gmail.com)
+<!-- Clean Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
-About work experince:
+---
 
-📌 Azure Services
-📌 GCP Services
-📌 Azure DevOps
-📌 Java Web application development (J2EE,Spring,JSF)
-📌 Mobile Application development (Hybrid)
-📌 Front End application development (HTML5, CSS3, JS, Angular JS, Anglar 13, NodeJS)
-📌 Database management (Postgres Datasbse, Oracle, Sybase)
-📌 Webservices (Java Springboot REST, NodeJS)
+### 👨‍💻 About Me  
 
-## Technologies Used
+💡 I’m an **innovative & creative Full Stack Developer** passionate about building scalable, cloud-native solutions.  
+🤝 Open to collaborating on **innovative & disruptive projects**.  
 
-### Cloud Services
+---
 
-#### Microsoft Azure
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat-square&logo=azure-functions)
-![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=flat-square&logo=microsoft-azure)
-![Azure App Service](https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=flat-square&logo=microsoft-azure)
-![Azure Storage](https://img.shields.io/badge/Azure%20Storage-0089D6?style=flat-square&logo=microsoft-azure)
-![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-0062AD?style=flat-square&logo=microsoft-azure)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform)
-![Azure PostgreSQL](https://img.shields.io/badge/Azure%20PostgreSQL-0089D6?style=flat-square&logo=postgresql)
-![Managed Identity](https://img.shields.io/badge/Managed%20Identity-0078D4?style=flat-square&logo=microsoft-azure)
-![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=flat-square&logo=azure-pipelines)
+### 🌱 Currently Learning & Working(Personal Projects for learning)  
 
-#### Google Cloud Platform
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud)
-![Google Cloud Functions](https://img.shields.io/badge/Google%20Cloud%20Functions-4285F4?style=flat-square&logo=google-cloud-functions)
+- React  
+- Supabase integration
+- Vibe coding tools to fasttrack the development
+- AI Integrations with applications
 
-### DevOps Tools
+---
 
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4B8BBE?style=flat-square&logo=devops)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube)
+### 🏆 Certifications  
+
+- <img src="https://images.icon-icons.com/2108/PNG/512/microsoft_icon_130876.png" width="15" height="15" alt="AZ-400"> **Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)**
+- <img src="https://images.icon-icons.com/2108/PNG/512/microsoft_icon_130876.png" width="15"  height="15"  alt="AZ-204"> **Microsoft Certified: Azure Developer Associate (AZ-204)**
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqAQW2FVLhgefYRhs6lxf-_YmUyi-lAiSSQ&s" width="15"  height="15"  alt="MongoDB Certified SI Associate"> **MongoDB Certified SI Associate**
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqAQW2FVLhgefYRhs6lxf-_YmUyi-lAiSSQ&s" width="15"  height="15"  alt="MongoDB Certified Architect"> **MongoDB Certified Architect**
 
 
+---
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikr194&show_icons=true&theme=radical)
+### 🛠️ Tech Stack  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikr194&layout=compact)](https://github.com/karthikr194/github-readme-stats)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,gcp,react,angular,typescript,nodejs,java,spring,docker,kubernetes,mongodb,postgres,html,css,js,terraform,git,ai" />
+</p>
 
+---
+
+### 💼 Skills & Expertise  
+
+- ☁ **Cloud Services**: Azure (Functions, Service Bus, App Service, Storage, Key Vault), GCP, Firebase  
+- ⚙ **DevOps**: Azure DevOps, Terraform, CI/CD, SonarQube, Snyk  
+- 💻 **Backend**: Node.js, Java/J2EE, Spring Boot, REST APIs, Supabase (Postgres Powered)
+- 🖥 **Frontend**: React, Angular (v4–v13), Ionic, HTML5, CSS3, JS  
+- 🗄 **Databases**: Postgres, Oracle, Sybase, MongoDB  
+- 📱 **Mobile**: Hybrid Apps with Ionic/Angular  
+- 🔗 **Webservices**: Java Spring Boot REST, Node.js REST
+- 🤖 **AI / Automation Tools**: Gemini AI integration
+
+---
+
+### 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikr194&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikr194&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikr194&layout=compact&theme=radical" />
+</p>
+
+---
+### 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karthikraju194/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:karthikrmecmech2012@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/karthikr194" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
